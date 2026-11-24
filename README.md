@@ -7,6 +7,4 @@ Building automated data pipelines, research scrapers, and lightweight internal t
 * Market & competitor tracking workflows
 * Small-business automation and simple reporting tools
 
-### Links
-* Website: https://novaindustries.space
-* Email: orena425@gmail.com
+

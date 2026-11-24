@@ -1,6 +1,6 @@
 # Kin Orena
 
-Building automated data pipelines, research scrapers, and lightweight internal tools in Python and SQLite. Based in the eastern Kansas City metro (Blue Springs / Grain Valley, MO).
+Building automated data pipelines, research scrapers, and lightweight internal tools in Python and SQLite. Based in the Kansas City metro area.
 
 ### Current Focus
 * Multi-source public data cross-referencing and scoring pipelines
